@@ -1,0 +1,11 @@
+{
+  "Company": "Salesforce Commerce Cloud",
+  "Country": "US",
+  "LastName": "Rivard",
+  "Email": "drivard@salesforce.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true,
+    "ChatterEnabled" : true	
+  }
+}
